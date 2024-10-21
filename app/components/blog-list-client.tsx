@@ -130,6 +130,7 @@ export default function BlogListClient({
             <Link
               className="flex flex-col space-y-2"
               href={`/blog/tech/${post.slug}`}
+              key={post.slug}
             >
               <div className="flex w-full flex-col">
                 {post.metadata.image && (

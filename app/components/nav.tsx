@@ -19,14 +19,14 @@ export const siteUrlList = [
     icon: HomeIcon,
   },
   {
-    name: 'Work',
-    url: '/work',
-    icon: Square2StackIcon,
-  },
-  {
     name: 'Blog',
     url: '/blog',
     icon: InboxIcon,
+  },
+  {
+    name: 'Work',
+    url: '/work',
+    icon: Square2StackIcon,
   },
 ]
 

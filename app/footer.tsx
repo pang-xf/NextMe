@@ -12,8 +12,8 @@ export default function Footer() {
           </a>
         </p>
         <section className="mt-1 flex items-center gap-2 text-[13px] font-light tracking-tight text-neutral-600/50 dark:text-neutral-300/50">
-          © 2021-{new Date().getFullYear()}{' '}
-          <a href={'https://github.com/hamster1963'}>@Hamster1963</a>
+          © 2024-{new Date().getFullYear()}{' '}
+          <a href={'https://github.com/pang-xf'}>@DuanZher</a>
         </section>
       </section>
     </footer>

@@ -20,19 +20,19 @@ const clientComponents = {
 
 export default function NowPlayingInit() {
   const data = {
-    "album": "Timeless",
-    "artist": "Khalil Fong",
+    "album": "无法长大",
+    "artist": "赵雷",
     "artist_url": "",
     "artwork_placeholder_url": "",
-    "artwork_url": "https://img.buycoffee.tech/IMG_4040.jpeg",
+    "artwork_url": "https://cdn-fusion.imgcdn.store/i/2024/e3b35eed90244b41.jpg",
     "client_type": "Apple Music",
     "play_percent": 0,
     "play_time": "",
     "player_state": true,
     "spotify_url": "",
-    "timestamp": 1726282587,
+    "timestamp": 1729514821117,
     "total_time": "",
-    "track_name": "Red Bean"
+    "track_name": "无法长大"
   }
 
   return (
